@@ -84,8 +84,8 @@ CETV5
 广州竞赛
 
 🌊港·澳·台,#genre#
-翡翠台
-明珠台
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$!aktv.top白名单
+明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8$!aktv.top白名单
 凤凰中文
 凤凰资讯
 凤凰香港
