@@ -84,7 +84,8 @@ CETV5
 深圳卫视
 
 🌊港·澳·台,#genre#
-翡翠台
+翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8$!aktv.top白名单
+翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 明珠台
 凤凰中文
 凤凰资讯
