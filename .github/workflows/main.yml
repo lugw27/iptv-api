@@ -17,6 +17,11 @@ jobs:
       matrix:
         operating-system: ['ubuntu-20.04']
     steps:
+      - name: Set up WARP with client
+        uses: fscarmen/warp-on-actions@v1.3
+        with:
+          stack: dual
+          mode: client
       - name: Set branch name
         id: vars
         run: echo "BRANCH_NAME=${{ github.repository_owner == 'Guovin' && 'gd' || 'master' }}" >> $GITHUB_ENV
